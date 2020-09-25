@@ -93,7 +93,8 @@ div.hero h2 {
     display: inline-block;
 }
 
-.bottom {
+/*This is a semantic css/html change*/
+.footer  {
     height: 50px;
     background-color: #b4c6f0;
     padding: 40px;
